@@ -1,7 +1,10 @@
-# Newsletter
-> Frontend, Backend, DevOps and Tech newsletter driven by developers
-
-[![](https://img.shields.io/badge/newsletter-upcoming-blue.svg)](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming) [![](https://img.shields.io/badge/submit-ideas-yellowgreen.svg)](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming) [![](https://img.shields.io/badge/subscribe-with%20email-green.svg)](http://me.io)
+<h1 align="center">Newsletter</h1>
+<p align="center">
+    <a href="https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming"><img src="https://img.shields.io/badge/newsletter-upcoming-blue.svg" /></a>
+    <a href="https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming"><img src="https://img.shields.io/badge/submit-ideas-yellowgreen.svg" /></a>
+    <a href="http://me.io"><img src="https://img.shields.io/badge/subscribe-with%20email-green.svg" /></a>
+</p>
+<p align="center">Frontend, Backend, DevOps and Tech newsletter driven by developers</p>
 
 ![](https://i.imgur.com/dTe9SKq.png)
 
