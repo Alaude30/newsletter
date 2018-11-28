@@ -25,9 +25,6 @@ The **reason behind housing the newsletter in GitHub Issues** was to make it mor
 ![](https://i.imgur.com/dTe9SKq.png)
 
 <h3 align="center">How can I Contribute?</h3>
+
 [Open the upcoming issue](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming) and comment your ideas for what should be included in the weekly.
-
-![](https://i.imgur.com/dTe9SKq.png)
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
