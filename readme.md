@@ -6,9 +6,6 @@
 </p>
 <p align="center">Frontend, Backend, DevOps and Tech newsletter driven by developers</p>
 
-![](https://i.imgur.com/dTe9SKq.png)
-
-## What is it?
 **Collaborative newsletter** covering the news, articles, projects coming out of the community in a digestable form. The newsletters are managed using the issues in this repository. Here is how it works:
 
 * **Week begins** – An empty GitHub issue is opened for the given week's publication and is labeled as **upcoming**.
