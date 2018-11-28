@@ -1,4 +1,4 @@
-# Newsletter
+# Newsletter [![](https://img.shields.io/badge/newsletter-upcoming-blue.svg)](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming)
 > Frontend, Backend, DevOps and Tech newsletter driven by developers
 
 ## What is it?
