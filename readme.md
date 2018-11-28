@@ -29,7 +29,5 @@ The **reason behind housing the newsletter in GitHub Issues** was to make it mor
 
 ![](https://i.imgur.com/dTe9SKq.png)
 
-<h3 align="center">License</h3>
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
