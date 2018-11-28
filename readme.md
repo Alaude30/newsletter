@@ -1,5 +1,7 @@
-# Newsletter [![](https://img.shields.io/badge/newsletter-upcoming-blue.svg)](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming)
+# Newsletter
 > Frontend, Backend, DevOps and Tech newsletter driven by developers
+
+[![](https://img.shields.io/badge/newsletter-upcoming-blue.svg)](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming) [![](https://img.shields.io/badge/submit-ideas-yellowgreen.svg)](https://github.com/me-io/newsletter/issues?q=is%3Aopen+is%3Aissue+label%3Aupcoming)
 
 ## What is it?
 > **Collaborative newsletter** covering the news, articles, projects coming out of the community in a digestable form.
