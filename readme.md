@@ -8,7 +8,7 @@
 
 ![](https://i.imgur.com/dTe9SKq.png)
 
-**Collaborative newsletter** covering the news, articles, projects coming out of the community in a digestable form. The newsletters are managed using the issues in this repository.
+**Collaborative newsletter** covering the news, articles, projects coming out of the community in a digestable form. The newsletters are managed using the issues in this repository. Here is how it works:
 
 * **Week begins** – An empty GitHub issue is opened for the given week's publication and is labeled as **upcoming**.
 * **Curation Starts** – Comments section in the issue is used to discuss what is to be included in the issue/publication.
